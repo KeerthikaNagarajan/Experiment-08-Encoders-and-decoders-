@@ -102,8 +102,7 @@ endmodule
 
 
 ### TRUTH TABLE 
-![encodertt](https://user-images.githubusercontent.com/93427089/171609316-f7a51584-5244-49b7-b89f-6aa2bde573aa.png)
-
+![encoder truth](https://user-images.githubusercontent.com/93427089/171649155-1c74d4f3-61a4-455c-85b7-eac60313c214.png)
 
 ### Decoders 
 ```
