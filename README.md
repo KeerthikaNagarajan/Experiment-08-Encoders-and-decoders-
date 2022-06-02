@@ -96,8 +96,9 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-<img width="470" alt="encoder timeing code ot" src="https://user-images.githubusercontent.com/93427089/171609260-e7e7ace2-2cc8-472c-bdda-a4d8b92f4a2b.png">
 <img width="413" alt="encoder tg int" src="https://user-images.githubusercontent.com/93427089/171609296-762cedc8-8b54-4c4d-b794-c36d969e2264.png">
+<img width="470" alt="encoder timeing code ot" src="https://user-images.githubusercontent.com/93427089/171609260-e7e7ace2-2cc8-472c-bdda-a4d8b92f4a2b.png">
+
 
 
 ### TRUTH TABLE 
