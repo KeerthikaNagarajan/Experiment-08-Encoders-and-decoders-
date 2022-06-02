@@ -92,14 +92,17 @@ or(c,d1,d3,d5,d7);
 endmodule
 ```
 ### RTL LOGIC  
-![out](encoder%20rtl.png)
+<img width="380" alt="encoder rtl" src="https://user-images.githubusercontent.com/93427089/171609152-b3dc5da3-0ea3-434b-8b56-c16ae2128429.png">
+
 
 ### TIMING DIGRAMS  
-![out](encoder%20timeing%20code%20ot.png)
-![out](encoder%20tg%20int.png)
+<img width="470" alt="encoder timeing code ot" src="https://user-images.githubusercontent.com/93427089/171609260-e7e7ace2-2cc8-472c-bdda-a4d8b92f4a2b.png">
+<img width="413" alt="encoder tg int" src="https://user-images.githubusercontent.com/93427089/171609296-762cedc8-8b54-4c4d-b794-c36d969e2264.png">
+
 
 ### TRUTH TABLE 
-![out](encodertt.png)
+![encodertt](https://user-images.githubusercontent.com/93427089/171609316-f7a51584-5244-49b7-b89f-6aa2bde573aa.png)
+
 
 ### Decoders 
 ```
@@ -117,14 +120,17 @@ assign d7 = (a&b&c);
 endmodule
 ```
 ### RTL LOGIC  
-![out](decoder%20rtl.png)
+<img width="326" alt="decoder rtl" src="https://user-images.githubusercontent.com/93427089/171609352-78cbfcef-be25-4c43-813d-f4d7817b4647.png">
+
 
 ### TIMING DIGRAMS  
-![out](DE.exp-08decodertime.png)
-![out](af.jpeg)
+![af](https://user-images.githubusercontent.com/93427089/171609411-803435ef-d8e3-4485-8a54-618a85ddac23.jpeg)
+![DE exp-08decodertime](https://user-images.githubusercontent.com/93427089/171609423-70e0bdd7-930f-4606-ac13-4e1a57f654ea.png)
+
 
 ### TRUTH TABLE 
-![out](decodertt.jpg)
+![decodertt](https://user-images.githubusercontent.com/93427089/171609467-0255c664-bb5a-4547-acc5-199deadf18f5.jpg)
+
 
 ### RESULTS 
 Thus, 8 to 3 Encoder and  3 to 8 Decoder is implemented using verilog and its outputs is validated.
